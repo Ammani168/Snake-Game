@@ -19,8 +19,8 @@ The game includes smooth movement, collision detection, scoring system, food gen
 ---
 
 ## 🖼 Preview  
-*(Add your screenshot here)*  
-`![Snake Game Screenshot](./screenshot.png)`
+*
+`![Snake Game Screenshot](./bg.png)`
 
 ---
 
