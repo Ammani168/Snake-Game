@@ -18,12 +18,6 @@ The game includes smooth movement, collision detection, scoring system, food gen
 
 ---
 
-## 🖼 Preview  
-*
-`![Snake Game Screenshot](./bg.png)`
-
----
-
 ## 🛠 Tech Stack
 - **HTML5**  
 - **CSS3**  
